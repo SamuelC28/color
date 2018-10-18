@@ -16,5 +16,6 @@ class MyLogColor
 
 end
 
-MyLogColor.new.haitis_flag("                              \n                           \n                              ","\n     Kot Kob PetroKaribe a? ", "\n                             \n                             ")
+
+MyLogColor.new.haitis_flag("                              \n                              ","\n    Kot Kob PetroKaribe a?    ", "\n                              \n                              \n                              ")
 # end
